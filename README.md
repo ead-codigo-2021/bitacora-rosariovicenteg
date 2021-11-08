@@ -5,7 +5,7 @@
     * Presentación
     * últimas entradas 
 * Sobre mi
-    * Emily Hutt Fontt
+    * Rosario Vicente
 * Sobre las clases
     * Clases []
         * Título
